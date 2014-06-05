@@ -1,4 +1,0 @@
-mycelium
-========
-
-Consulting networking tool

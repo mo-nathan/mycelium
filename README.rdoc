@@ -1,0 +1,7 @@
+mycelium
+========
+
+Consulting networking tool
+
+Uses ruby 2.1.1, rails 4.1.1, sqlite.  You should be able to get
+the code, run 'bundle install', then run the tests is 'rake'.
